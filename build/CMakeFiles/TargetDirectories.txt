@@ -1,0 +1,9 @@
+D:/Work/ITWS/build/CMakeFiles/Experimental.dir
+D:/Work/ITWS/build/CMakeFiles/Nightly.dir
+D:/Work/ITWS/build/CMakeFiles/Continuous.dir
+D:/Work/ITWS/build/CMakeFiles/NightlyMemoryCheck.dir
+D:/Work/ITWS/build/CMakeFiles/ITWS.dir
+D:/Work/ITWS/build/CMakeFiles/PACKAGE.dir
+D:/Work/ITWS/build/CMakeFiles/RUN_TESTS.dir
+D:/Work/ITWS/build/CMakeFiles/ALL_BUILD.dir
+D:/Work/ITWS/build/CMakeFiles/ZERO_CHECK.dir
